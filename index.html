@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>US Census and California HCD Income Ranges</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            text-align: center;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .dropdown {
+            margin-bottom: 20px;
+        }
+        .charts {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="content">
+        <h1>US Census and California HCD Income Ranges</h1>
+        <div class="dropdown">
+            <label for="jurisdictionSelect">Select a Jurisdiction:</label>
+            <select id="jurisdictionSelect">
+                <option value="">--Select--</option>
+            </select>
+        </div>
+        <div class="charts">
+            <h2 id="censusChartTitle"></h2>
+            <img id="censusChart" src="" alt="Census Income Ranges Chart">
+            <h2 id="hcdChartTitle"></h2>
+            <img id="hcdChart" src="" alt="HCD Income Ranges Chart">
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            fetch('prepared_data.json')
+                .then(response => response.json())
+                .then(data => {
+                    const jurisdictionSelect = document.getElementById('jurisdictionSelect');
+                    data.forEach(county => {
+                        const option = document.createElement('option');
+                        option.value = county.jurisdiction;
+                        option.text = county.jurisdiction;
+                        jurisdictionSelect.appendChild(option);
+                    });
+
+                    function updateCharts(jurisdiction) {
+                        if (jurisdiction) {
+                            const safeJurisdictionName = jurisdiction.replace(/,/g, '').replace(/ /g, '_');
+                            document.getElementById('censusChartTitle').textContent = `Census Income Ranges - ${jurisdiction}`;
+                            document.getElementById('censusChart').src = `charts/census_income_ranges/${safeJurisdictionName}.png`;
+                            document.getElementById('hcdChartTitle').textContent = `HCD Income Ranges - ${jurisdiction}`;
+                            document.getElementById('hcdChart').src = `charts/hcd_income_ranges/${safeJurisdictionName}.png`;
+                        } else {
+                            document.getElementById('censusChartTitle').textContent = '';
+                            document.getElementById('censusChart').src = '';
+                            document.getElementById('hcdChartTitle').textContent = '';
+                            document.getElementById('hcdChart').src = '';
+                        }
+                    }
+
+                    // Automatically select the first county and display its charts
+                    if (data.length > 0) {
+                        jurisdictionSelect.selectedIndex = 1; // The first county is at index 1 (index 0 is "--Select--")
+                        const firstJurisdiction = data[0].jurisdiction;
+                        updateCharts(firstJurisdiction);
+                    }
+
+                    jurisdictionSelect.addEventListener('change', function() {
+                        const selectedJurisdiction = this.value;
+                        updateCharts(selectedJurisdiction);
+                    });
+                })
+                .catch(error => console.error('Error loading prepared_data.json:', error));
+        });
+    </script>
+</body>
+</html>

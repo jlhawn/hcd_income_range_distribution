@@ -64,7 +64,8 @@
         </div>
         <div class="info">
             <h2 id="jurisdictionName"></h2>
-            <p><b>Median Income</b>:<span id="medianIncome"></span></p>
+            <p><b>Median Income</b>: <span id="medianIncome"></span></p>
+            <ul id="hcdIncomeRanges"></ul>
         </div>
         <div class="charts">
             <h2 id="hcdChartTitle"></h2>
@@ -93,6 +94,26 @@
                             const safeJurisdictionName = jurisdiction.replace(/,/g, '').replace(/ /g, '_');
                             document.getElementById('jurisdictionName').textContent = jurisdiction;
                             document.getElementById('medianIncome').textContent = `$${county.median_income.toLocaleString()}`;
+
+                            // Update HCD income ranges
+                            const hcdIncomeRanges = document.getElementById('hcdIncomeRanges');
+                            hcdIncomeRanges.innerHTML = '';
+                            county.hcd_income_ranges.forEach(range => {
+                                const lowerBound = range.income_lower_bound;
+                                const upperBound = range.income_upper_bound;
+                                let label;
+                                if (lowerBound === 0) {
+                                    label = `Less than $${upperBound.toLocaleString()}`;
+                                } else if (upperBound === null) {
+                                    label = `$${lowerBound.toLocaleString()} or more`;
+                                } else {
+                                    label = `$${lowerBound.toLocaleString()} - $${upperBound.toLocaleString()}`;
+                                }
+                                const listItem = document.createElement('li');
+                                listItem.innerHTML = `<b>${range.label}</b>: ${label}`;
+                                hcdIncomeRanges.appendChild(listItem);
+                            });
+
                             document.getElementById('censusChartTitle').textContent = `Census Income Ranges - ${jurisdiction}`;
                             document.getElementById('censusChart').src = `charts/census_income_ranges/${safeJurisdictionName}.png`;
                             document.getElementById('hcdChartTitle').textContent = `HCD Income Ranges - ${jurisdiction}`;
@@ -100,6 +121,7 @@
                         } else {
                             document.getElementById('jurisdictionName').textContent = '';
                             document.getElementById('medianIncome').textContent = '';
+                            document.getElementById('hcdIncomeRanges').innerHTML = '';
                             document.getElementById('censusChartTitle').textContent = '';
                             document.getElementById('censusChart').src = '';
                             document.getElementById('hcdChartTitle').textContent = '';

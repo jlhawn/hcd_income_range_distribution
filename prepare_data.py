@@ -161,9 +161,9 @@ for county_data in raw_data[1:]:
 
         hcd_income_ranges.append({
             'label': hcd_income_range_label,
-            'households': hcd_income_range_households,
-            'income_lower_bound': hcd_income_range_lower_bound,
-            'income_upper_bound': hcd_income_range_upper_bound,
+            'households': int(hcd_income_range_households),
+            'income_lower_bound': int(hcd_income_range_lower_bound),
+            'income_upper_bound': int(hcd_income_range_upper_bound) if hcd_income_range_upper_bound != float('inf') else hcd_income_range_upper_bound,
             'lower_percentile': lower_percentile,
             'upper_percentile': upper_percentile,
         })

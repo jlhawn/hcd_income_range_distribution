@@ -120,40 +120,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 101123.66954678245,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 36683.54253247401,
+                "households": 101123,
+                "income_lower_bound": 0,
+                "income_upper_bound": 36683,
                 "lower_percentile": 0,
                 "upper_percentile": 16.94959715105285
             },
             {
                 "label": "Very Low Income",
-                "households": 57383.80516368184,
-                "income_lower_bound": 36683.54253247401,
-                "income_upper_bound": 61139.237554123356,
+                "households": 57383,
+                "income_lower_bound": 36683,
+                "income_upper_bound": 61139,
                 "lower_percentile": 16.94959715105285,
                 "upper_percentile": 26.567843649405525
             },
             {
                 "label": "Low Income",
-                "households": 90098.0264548691,
-                "income_lower_bound": 61139.237554123356,
-                "income_upper_bound": 97822.78008659737,
+                "households": 90098,
+                "income_lower_bound": 61139,
+                "income_upper_bound": 97822,
                 "lower_percentile": 26.567843649405525,
                 "upper_percentile": 41.66940453380802
             },
             {
                 "label": "Moderate Income",
-                "households": 92949.25497358062,
-                "income_lower_bound": 97822.78008659737,
-                "income_upper_bound": 146734.17012989605,
+                "households": 92949,
+                "income_lower_bound": 97822,
+                "income_upper_bound": 146734,
                 "lower_percentile": 41.66940453380802,
                 "upper_percentile": 57.24886712998924
             },
             {
                 "label": "Above Moderate Income",
-                "households": 255059.243861086,
-                "income_lower_bound": 146734.17012989605,
+                "households": 255059,
+                "income_lower_bound": 146734,
                 "income_upper_bound": null,
                 "lower_percentile": 57.24886712998924,
                 "upper_percentile": 100.0
@@ -281,40 +281,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 11911.581464783272,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 19318.04017447878,
+                "households": 11911,
+                "income_lower_bound": 0,
+                "income_upper_bound": 19318,
                 "lower_percentile": 0,
                 "upper_percentile": 14.43933069651523
             },
             {
                 "label": "Very Low Income",
-                "households": 9031.535222076207,
-                "income_lower_bound": 19318.04017447878,
-                "income_upper_bound": 32196.733624131306,
+                "households": 9031,
+                "income_lower_bound": 19318,
+                "income_upper_bound": 32196,
                 "lower_percentile": 14.43933069651523,
                 "upper_percentile": 25.38744234351526
             },
             {
                 "label": "Low Income",
-                "households": 12841.525051216446,
-                "income_lower_bound": 32196.733624131306,
-                "income_upper_bound": 51514.77379861009,
+                "households": 12841,
+                "income_lower_bound": 32196,
+                "income_upper_bound": 51514,
                 "lower_percentile": 25.38744234351526,
                 "upper_percentile": 40.954059371682696
             },
             {
                 "label": "Moderate Income",
-                "households": 13187.251780871691,
-                "income_lower_bound": 51514.77379861009,
-                "income_upper_bound": 77272.16069791513,
+                "households": 13187,
+                "income_lower_bound": 51514,
+                "income_upper_bound": 77272,
                 "lower_percentile": 40.954059371682696,
                 "upper_percentile": 56.93976958196671
             },
             {
                 "label": "Above Moderate Income",
-                "households": 35522.10648105238,
-                "income_lower_bound": 77272.16069791513,
+                "households": 35522,
+                "income_lower_bound": 77272,
                 "income_upper_bound": null,
                 "lower_percentile": 56.93976958196671,
                 "upper_percentile": 100.0
@@ -442,40 +442,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 62416.092771724005,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 35956.52244778307,
+                "households": 62416,
+                "income_lower_bound": 0,
+                "income_upper_bound": 35956,
                 "lower_percentile": 0,
                 "upper_percentile": 15.032994882325854
             },
             {
                 "label": "Very Low Income",
-                "households": 42250.6866044987,
-                "income_lower_bound": 35956.52244778307,
-                "income_upper_bound": 59927.53741297178,
+                "households": 42250,
+                "income_lower_bound": 35956,
+                "income_upper_bound": 59927,
                 "lower_percentile": 15.032994882325854,
                 "upper_percentile": 25.20912618588484
             },
             {
                 "label": "Low Income",
-                "households": 63006.91698085108,
-                "income_lower_bound": 59927.53741297178,
-                "income_upper_bound": 95884.05986075486,
+                "households": 63006,
+                "income_lower_bound": 59927,
+                "income_upper_bound": 95884,
                 "lower_percentile": 25.20912618588484,
                 "upper_percentile": 40.38442182620023
             },
             {
                 "label": "Moderate Income",
-                "households": 73520.80484808487,
-                "income_lower_bound": 95884.05986075486,
-                "income_upper_bound": 143826.08979113228,
+                "households": 73520,
+                "income_lower_bound": 95884,
+                "income_upper_bound": 143826,
                 "lower_percentile": 40.38442182620023,
                 "upper_percentile": 58.09200065635791
             },
             {
                 "label": "Above Moderate Income",
-                "households": 173999.49879484135,
-                "income_lower_bound": 143826.08979113228,
+                "households": 173999,
+                "income_lower_bound": 143826,
                 "income_upper_bound": null,
                 "lower_percentile": 58.09200065635791,
                 "upper_percentile": 100.0
@@ -603,40 +603,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 9458.54585471585,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 32277.47023270506,
+                "households": 9458,
+                "income_lower_bound": 0,
+                "income_upper_bound": 32277,
                 "lower_percentile": 0,
                 "upper_percentile": 12.717201590184803
             },
             {
                 "label": "Very Low Income",
-                "households": 8164.429071943919,
-                "income_lower_bound": 32277.47023270506,
-                "income_upper_bound": 53795.7837211751,
+                "households": 8164,
+                "income_lower_bound": 32277,
+                "income_upper_bound": 53795,
                 "lower_percentile": 12.717201590184803,
                 "upper_percentile": 23.694437623238368
             },
             {
                 "label": "Low Income",
-                "households": 12525.973280948223,
-                "income_lower_bound": 53795.7837211751,
-                "income_upper_bound": 86073.25395388016,
+                "households": 12525,
+                "income_lower_bound": 53795,
+                "income_upper_bound": 86073,
                 "lower_percentile": 23.694437623238368,
                 "upper_percentile": 40.53585593149402
             },
             {
                 "label": "Moderate Income",
-                "households": 14544.58923682671,
-                "income_lower_bound": 86073.25395388016,
-                "income_upper_bound": 129109.88093082025,
+                "households": 14544,
+                "income_lower_bound": 86073,
+                "income_upper_bound": 129109,
                 "lower_percentile": 40.53585593149402,
                 "upper_percentile": 60.091343234961144
             },
             {
                 "label": "Above Moderate Income",
-                "households": 29682.462555565296,
-                "income_lower_bound": 129109.88093082025,
+                "households": 29682,
+                "income_lower_bound": 129109,
                 "income_upper_bound": null,
                 "lower_percentile": 60.091343234961144,
                 "upper_percentile": 100.0
@@ -764,40 +764,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 51075.962078376,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 20945.788337515896,
+                "households": 51075,
+                "income_lower_bound": 0,
+                "income_upper_bound": 20945,
                 "lower_percentile": 0,
                 "upper_percentile": 15.620467879900055
             },
             {
                 "label": "Very Low Income",
-                "households": 34665.29488407565,
-                "income_lower_bound": 20945.788337515896,
-                "income_upper_bound": 34909.647229193164,
+                "households": 34665,
+                "income_lower_bound": 20945,
+                "income_upper_bound": 34909,
                 "lower_percentile": 15.620467879900055,
                 "upper_percentile": 26.222091486187775
             },
             {
                 "label": "Low Income",
-                "households": 49071.821050834915,
-                "income_lower_bound": 34909.647229193164,
-                "income_upper_bound": 55855.435566709064,
+                "households": 49071,
+                "income_lower_bound": 34909,
+                "income_upper_bound": 55855,
                 "lower_percentile": 26.222091486187775,
                 "upper_percentile": 41.2296365884521
             },
             {
                 "label": "Moderate Income",
-                "households": 53172.84122273949,
-                "income_lower_bound": 55855.435566709064,
-                "income_upper_bound": 83783.15335006359,
+                "households": 53172,
+                "income_lower_bound": 55855,
+                "income_upper_bound": 83783,
                 "lower_percentile": 41.2296365884521,
                 "upper_percentile": 57.4913891743025
             },
             {
                 "label": "Above Moderate Income",
-                "households": 138995.08076397394,
-                "income_lower_bound": 83783.15335006359,
+                "households": 138995,
+                "income_lower_bound": 83783,
                 "income_upper_bound": null,
                 "lower_percentile": 57.4913891743025,
                 "upper_percentile": 100.0
@@ -925,40 +925,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 8009.828091758194,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 17202.613808440216,
+                "households": 8009,
+                "income_lower_bound": 0,
+                "income_upper_bound": 17202,
                 "lower_percentile": 0,
                 "upper_percentile": 14.105535073977624
             },
             {
                 "label": "Very Low Income",
-                "households": 4015.870122408842,
-                "income_lower_bound": 17202.613808440216,
-                "income_upper_bound": 28671.023014067025,
+                "households": 4015,
+                "income_lower_bound": 17202,
+                "income_upper_bound": 28671,
                 "lower_percentile": 14.105535073977624,
                 "upper_percentile": 21.17759657333281
             },
             {
                 "label": "Low Income",
-                "households": 10970.419851200279,
-                "income_lower_bound": 28671.023014067025,
-                "income_upper_bound": 45873.636822507244,
+                "households": 10970,
+                "income_lower_bound": 28671,
+                "income_upper_bound": 45873,
                 "lower_percentile": 21.17759657333281,
                 "upper_percentile": 40.49681793672152
             },
             {
                 "label": "Moderate Income",
-                "households": 9136.813218875244,
-                "income_lower_bound": 45873.636822507244,
-                "income_upper_bound": 68810.45523376086,
+                "households": 9136,
+                "income_lower_bound": 45873,
+                "income_upper_bound": 68810,
                 "lower_percentile": 40.49681793672152,
                 "upper_percentile": 56.58700587169597
             },
             {
                 "label": "Above Moderate Income",
-                "households": 24652.06871575744,
-                "income_lower_bound": 68810.45523376086,
+                "households": 24652,
+                "income_lower_bound": 68810,
                 "income_upper_bound": null,
                 "lower_percentile": 56.58700587169597,
                 "upper_percentile": 100.0
@@ -1086,40 +1086,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 8050.724943696537,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 17355.4105355064,
+                "households": 8050,
+                "income_lower_bound": 0,
+                "income_upper_bound": 17355,
                 "lower_percentile": 0,
                 "upper_percentile": 15.82389870412276
             },
             {
                 "label": "Very Low Income",
-                "households": 5804.971488779712,
-                "income_lower_bound": 17355.4105355064,
-                "income_upper_bound": 28925.684225844,
+                "households": 5804,
+                "income_lower_bound": 17355,
+                "income_upper_bound": 28925,
                 "lower_percentile": 15.82389870412276,
                 "upper_percentile": 27.233713529642564
             },
             {
                 "label": "Low Income",
-                "households": 7760.964926384579,
-                "income_lower_bound": 28925.684225844,
-                "income_upper_bound": 46281.0947613504,
+                "households": 7760,
+                "income_lower_bound": 28925,
+                "income_upper_bound": 46281,
                 "lower_percentile": 27.233713529642564,
                 "upper_percentile": 42.48808176358831
             },
             {
                 "label": "Moderate Income",
-                "households": 7945.7509309767265,
-                "income_lower_bound": 46281.0947613504,
-                "income_upper_bound": 69421.6421420256,
+                "households": 7945,
+                "income_lower_bound": 46281,
+                "income_upper_bound": 69421,
                 "lower_percentile": 42.48808176358831,
                 "upper_percentile": 58.10565145318622
             },
             {
                 "label": "Above Moderate Income",
-                "households": 21314.587710162446,
-                "income_lower_bound": 69421.6421420256,
+                "households": 21314,
+                "income_lower_bound": 69421,
                 "income_upper_bound": null,
                 "lower_percentile": 58.10565145318622,
                 "upper_percentile": 100.0
@@ -1247,40 +1247,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 39531.17148531226,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 20016.925061943344,
+                "households": 39531,
+                "income_lower_bound": 0,
+                "income_upper_bound": 20016,
                 "lower_percentile": 0,
                 "upper_percentile": 13.943483998910889
             },
             {
                 "label": "Very Low Income",
-                "households": 32878.81265808777,
-                "income_lower_bound": 20016.925061943344,
-                "income_upper_bound": 33361.541769905576,
+                "households": 32878,
+                "income_lower_bound": 20016,
+                "income_upper_bound": 33361,
                 "lower_percentile": 13.943483998910889,
                 "upper_percentile": 25.54053971408417
             },
             {
                 "label": "Low Income",
-                "households": 43877.64505422811,
-                "income_lower_bound": 33361.541769905576,
-                "income_upper_bound": 53378.46683184893,
+                "households": 43877,
+                "income_lower_bound": 33361,
+                "income_upper_bound": 53378,
                 "lower_percentile": 25.54053971408417,
                 "upper_percentile": 41.01711727897715
             },
             {
                 "label": "Moderate Income",
-                "households": 49674.720106188506,
-                "income_lower_bound": 53378.46683184893,
-                "income_upper_bound": 80067.70024777338,
+                "households": 49674,
+                "income_lower_bound": 53378,
+                "income_upper_bound": 80067,
                 "lower_percentile": 41.01711727897715,
                 "upper_percentile": 58.538446370081
             },
             {
                 "label": "Above Moderate Income",
-                "households": 117547.65069618335,
-                "income_lower_bound": 80067.70024777338,
+                "households": 117547,
+                "income_lower_bound": 80067,
                 "income_upper_bound": null,
                 "lower_percentile": 58.538446370081,
                 "upper_percentile": 100.0
@@ -1408,40 +1408,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 4383.226393355595,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 19775.980494505497,
+                "households": 4383,
+                "income_lower_bound": 0,
+                "income_upper_bound": 19775,
                 "lower_percentile": 0,
                 "upper_percentile": 10.04267606047655
             },
             {
                 "label": "Very Low Income",
-                "households": 3884.2585285372093,
-                "income_lower_bound": 19775.980494505497,
-                "income_upper_bound": 32959.96749084249,
+                "households": 3884,
+                "income_lower_bound": 19775,
+                "income_upper_bound": 32959,
                 "lower_percentile": 10.04267606047655,
                 "upper_percentile": 18.94213655751456
             },
             {
                 "label": "Low Income",
-                "households": 9159.171007509662,
-                "income_lower_bound": 32959.96749084249,
-                "income_upper_bound": 52735.94798534799,
+                "households": 9159,
+                "income_lower_bound": 32959,
+                "income_upper_bound": 52735,
                 "lower_percentile": 18.94213655751456,
                 "upper_percentile": 39.92726923292505
             },
             {
                 "label": "Moderate Income",
-                "households": 7969.509173025808,
-                "income_lower_bound": 52735.94798534799,
-                "income_upper_bound": 79103.92197802199,
+                "households": 7969,
+                "income_lower_bound": 52735,
+                "income_upper_bound": 79103,
                 "lower_percentile": 39.92726923292505,
                 "upper_percentile": 58.18669546448305
             },
             {
                 "label": "Above Moderate Income",
-                "households": 18249.834897571724,
-                "income_lower_bound": 79103.92197802199,
+                "households": 18249,
+                "income_lower_bound": 79103,
                 "income_upper_bound": null,
                 "lower_percentile": 58.18669546448305,
                 "upper_percentile": 99.99999999999999
@@ -1569,40 +1569,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 4216.980200040008,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 15599.939999999999,
+                "households": 4216,
+                "income_lower_bound": 0,
+                "income_upper_bound": 15599,
                 "lower_percentile": 0,
                 "upper_percentile": 15.584966368689509
             },
             {
                 "label": "Very Low Income",
-                "households": 2810.4423444688937,
-                "income_lower_bound": 15599.939999999999,
-                "income_upper_bound": 25999.899999999998,
+                "households": 2810,
+                "income_lower_bound": 15599,
+                "income_upper_bound": 25999,
                 "lower_percentile": 15.584966368689509,
                 "upper_percentile": 25.971699846658662
             },
             {
                 "label": "Low Income",
-                "households": 4390.850486097219,
-                "income_lower_bound": 25999.899999999998,
-                "income_upper_bound": 41599.84,
+                "households": 4390,
+                "income_lower_bound": 25999,
+                "income_upper_bound": 41599,
                 "lower_percentile": 25.971699846658662,
                 "upper_percentile": 42.199249872888316
             },
             {
                 "label": "Moderate Income",
-                "households": 4796.31318180804,
-                "income_lower_bound": 41599.84,
-                "income_upper_bound": 62399.759999999995,
+                "households": 4796,
+                "income_lower_bound": 41599,
+                "income_upper_bound": 62399,
                 "lower_percentile": 42.199249872888316,
                 "upper_percentile": 59.92529459832272
             },
             {
                 "label": "Above Moderate Income",
-                "households": 10843.41378758584,
-                "income_lower_bound": 62399.759999999995,
+                "households": 10843,
+                "income_lower_bound": 62399,
                 "income_upper_bound": null,
                 "lower_percentile": 59.92529459832272,
                 "upper_percentile": 100.0
@@ -1730,40 +1730,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 541023.0254359434,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 24981.00146220852,
+                "households": 541023,
+                "income_lower_bound": 0,
+                "income_upper_bound": 24981,
                 "lower_percentile": 0,
                 "upper_percentile": 15.839181053630865
             },
             {
                 "label": "Very Low Income",
-                "households": 363175.032497163,
-                "income_lower_bound": 24981.00146220852,
-                "income_upper_bound": 41635.0024370142,
+                "households": 363175,
+                "income_lower_bound": 24981,
+                "income_upper_bound": 41635,
                 "lower_percentile": 15.839181053630865,
                 "upper_percentile": 26.471621492271524
             },
             {
                 "label": "Low Income",
-                "households": 504100.7234808045,
-                "income_lower_bound": 41635.0024370142,
-                "income_upper_bound": 66616.00389922272,
+                "households": 504100,
+                "income_lower_bound": 41635,
+                "income_upper_bound": 66616,
                 "lower_percentile": 26.471621492271524,
                 "upper_percentile": 41.229852201666965
             },
             {
                 "label": "Moderate Income",
-                "households": 580853.5527034539,
-                "income_lower_bound": 66616.00389922272,
-                "income_upper_bound": 99924.00584883407,
+                "households": 580853,
+                "income_lower_bound": 66616,
+                "income_upper_bound": 99924,
                 "lower_percentile": 41.229852201666965,
                 "upper_percentile": 58.23512583027342
             },
             {
                 "label": "Above Moderate Income",
-                "households": 1426573.6658826354,
-                "income_lower_bound": 99924.00584883407,
+                "households": 1426573,
+                "income_lower_bound": 99924,
                 "income_upper_bound": null,
                 "lower_percentile": 58.23512583027342,
                 "upper_percentile": 100.00000000000001
@@ -1891,40 +1891,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 7092.136475047907,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 23038.19528833762,
+                "households": 7092,
+                "income_lower_bound": 0,
+                "income_upper_bound": 23038,
                 "lower_percentile": 0,
                 "upper_percentile": 15.573764191238073
             },
             {
                 "label": "Very Low Income",
-                "households": 4463.243449229472,
-                "income_lower_bound": 23038.19528833762,
-                "income_upper_bound": 38396.99214722937,
+                "households": 4463,
+                "income_lower_bound": 23038,
+                "income_upper_bound": 38396,
                 "lower_percentile": 15.573764191238073,
                 "upper_percentile": 25.37468966002191
             },
             {
                 "label": "Low Income",
-                "households": 7469.680930776185,
-                "income_lower_bound": 38396.99214722937,
-                "income_upper_bound": 61435.187435567,
+                "households": 7469,
+                "income_lower_bound": 38396,
+                "income_upper_bound": 61435,
                 "lower_percentile": 25.37468966002191,
                 "upper_percentile": 41.77751126518712
             },
             {
                 "label": "Moderate Income",
-                "households": 7558.488142906346,
-                "income_lower_bound": 61435.187435567,
-                "income_upper_bound": 92152.78115335049,
+                "households": 7558,
+                "income_lower_bound": 61435,
+                "income_upper_bound": 92152,
                 "lower_percentile": 41.77751126518712,
                 "upper_percentile": 58.375346401897076
             },
             {
                 "label": "Above Moderate Income",
-                "households": 18955.45100204009,
-                "income_lower_bound": 92152.78115335049,
+                "households": 18955,
+                "income_lower_bound": 92152,
                 "income_upper_bound": null,
                 "lower_percentile": 58.375346401897076,
                 "upper_percentile": 100.0
@@ -2052,40 +2052,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 15124.996698670982,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 40769.57003324208,
+                "households": 15124,
+                "income_lower_bound": 0,
+                "income_upper_bound": 40769,
                 "lower_percentile": 0,
                 "upper_percentile": 14.643943165678444
             },
             {
                 "label": "Very Low Income",
-                "households": 12064.457230476375,
-                "income_lower_bound": 40769.57003324208,
-                "income_upper_bound": 67949.2833887368,
+                "households": 12064,
+                "income_lower_bound": 40769,
+                "income_upper_bound": 67949,
                 "lower_percentile": 14.643943165678444,
                 "upper_percentile": 26.324687930626283
             },
             {
                 "label": "Low Income",
-                "households": 16438.65299302707,
-                "income_lower_bound": 67949.2833887368,
-                "income_upper_bound": 108718.85342197889,
+                "households": 16438,
+                "income_lower_bound": 67949,
+                "income_upper_bound": 108718,
                 "lower_percentile": 26.324687930626283,
                 "upper_percentile": 42.2405062905305
             },
             {
                 "label": "Moderate Income",
-                "households": 14038.266228406304,
-                "income_lower_bound": 108718.85342197889,
-                "income_upper_bound": 163078.28013296833,
+                "households": 14038,
+                "income_lower_bound": 108718,
+                "income_upper_bound": 163078,
                 "lower_percentile": 42.2405062905305,
                 "upper_percentile": 55.83228266503435
             },
             {
                 "label": "Above Moderate Income",
-                "households": 45618.62684941927,
-                "income_lower_bound": 163078.28013296833,
+                "households": 45618,
+                "income_lower_bound": 163078,
                 "income_upper_bound": null,
                 "lower_percentile": 55.83228266503435,
                 "upper_percentile": 100.0
@@ -2213,40 +2213,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 6448.775020014591,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 19730.444387291976,
+                "households": 6448,
+                "income_lower_bound": 0,
+                "income_upper_bound": 19730,
                 "lower_percentile": 0,
                 "upper_percentile": 18.426124407150667
             },
             {
                 "label": "Very Low Income",
-                "households": 3219.5026868732302,
-                "income_lower_bound": 19730.444387291976,
-                "income_upper_bound": 32884.073978819964,
+                "households": 3219,
+                "income_lower_bound": 19730,
+                "income_upper_bound": 32884,
                 "lower_percentile": 18.426124407150667,
                 "upper_percentile": 27.62522917563238
             },
             {
                 "label": "Low Income",
-                "households": 4598.20781970417,
-                "income_lower_bound": 32884.073978819964,
-                "income_upper_bound": 52614.518366111944,
+                "households": 4598,
+                "income_lower_bound": 32884,
+                "income_upper_bound": 52614,
                 "lower_percentile": 27.62522917563238,
                 "upper_percentile": 40.76371657406706
             },
             {
                 "label": "Moderate Income",
-                "households": 6043.684999372159,
-                "income_lower_bound": 52614.518366111944,
-                "income_upper_bound": 78921.7775491679,
+                "households": 6043,
+                "income_lower_bound": 52614,
+                "income_upper_bound": 78921,
                 "lower_percentile": 40.76371657406706,
                 "upper_percentile": 58.03237478131364
             },
             {
                 "label": "Above Moderate Income",
-                "households": 14687.829474035849,
-                "income_lower_bound": 78921.7775491679,
+                "households": 14687,
+                "income_lower_bound": 78921,
                 "income_upper_bound": null,
                 "lower_percentile": 58.03237478131364,
                 "upper_percentile": 100.0
@@ -2374,40 +2374,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 12931.68774180409,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 20259.985430844437,
+                "households": 12931,
+                "income_lower_bound": 0,
+                "income_upper_bound": 20259,
                 "lower_percentile": 0,
                 "upper_percentile": 14.723542914498564
             },
             {
                 "label": "Very Low Income",
-                "households": 9135.0778196663,
-                "income_lower_bound": 20259.985430844437,
-                "income_upper_bound": 33766.64238474073,
+                "households": 9135,
+                "income_lower_bound": 20259,
+                "income_upper_bound": 33766,
                 "lower_percentile": 14.723542914498564,
                 "upper_percentile": 25.124405740032323
             },
             {
                 "label": "Low Income",
-                "households": 12513.16656210716,
-                "income_lower_bound": 33766.64238474073,
-                "income_upper_bound": 54026.62781558517,
+                "households": 12513,
+                "income_lower_bound": 33766,
+                "income_upper_bound": 54026,
                 "lower_percentile": 25.124405740032323,
                 "upper_percentile": 39.371435868811965
             },
             {
                 "label": "Moderate Income",
-                "households": 17495.972357800598,
-                "income_lower_bound": 54026.62781558517,
-                "income_upper_bound": 81039.94172337775,
+                "households": 17495,
+                "income_lower_bound": 54026,
+                "income_upper_bound": 81039,
                 "lower_percentile": 39.371435868811965,
                 "upper_percentile": 59.29170497709
             },
             {
                 "label": "Above Moderate Income",
-                "households": 35754.095518621856,
-                "income_lower_bound": 81039.94172337775,
+                "households": 35754,
+                "income_lower_bound": 81039,
                 "income_upper_bound": null,
                 "lower_percentile": 59.29170497709,
                 "upper_percentile": 100.0
@@ -2535,40 +2535,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 17183.662788101705,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 27117.627077741072,
+                "households": 17183,
+                "income_lower_bound": 0,
+                "income_upper_bound": 27117,
                 "lower_percentile": 0,
                 "upper_percentile": 12.977519079307386
             },
             {
                 "label": "Very Low Income",
-                "households": 15196.028303637191,
-                "income_lower_bound": 27117.627077741072,
-                "income_upper_bound": 45196.045129568454,
+                "households": 15196,
+                "income_lower_bound": 27117,
+                "income_upper_bound": 45196,
                 "lower_percentile": 12.977519079307386,
                 "upper_percentile": 24.45392836829183
             },
             {
                 "label": "Low Income",
-                "households": 19963.311722888837,
-                "income_lower_bound": 45196.045129568454,
-                "income_upper_bound": 72313.67220730953,
+                "households": 19963,
+                "income_lower_bound": 45196,
+                "income_upper_bound": 72313,
                 "lower_percentile": 24.45392836829183,
                 "upper_percentile": 39.530705768121784
             },
             {
                 "label": "Moderate Income",
-                "households": 26428.471369148625,
-                "income_lower_bound": 72313.67220730953,
-                "income_upper_bound": 108470.50831096429,
+                "households": 26428,
+                "income_lower_bound": 72313,
+                "income_upper_bound": 108470,
                 "lower_percentile": 39.530705768121784,
                 "upper_percentile": 59.49012860243965
             },
             {
                 "label": "Above Moderate Income",
-                "households": 53639.52581622364,
-                "income_lower_bound": 108470.50831096429,
+                "households": 53639,
+                "income_lower_bound": 108470,
                 "income_upper_bound": null,
                 "lower_percentile": 59.49012860243965,
                 "upper_percentile": 100.0
@@ -2696,40 +2696,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 6243.859507876773,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 30153.448246235603,
+                "households": 6243,
+                "income_lower_bound": 0,
+                "income_upper_bound": 30153,
                 "lower_percentile": 0,
                 "upper_percentile": 12.236863317739878
             },
             {
                 "label": "Very Low Income",
-                "households": 6053.136231803483,
-                "income_lower_bound": 30153.448246235603,
-                "income_upper_bound": 50255.74707705934,
+                "households": 6053,
+                "income_lower_bound": 30153,
+                "income_upper_bound": 50255,
                 "lower_percentile": 12.236863317739878,
                 "upper_percentile": 24.099942654934356
             },
             {
                 "label": "Low Income",
-                "households": 8478.976292059828,
-                "income_lower_bound": 50255.74707705934,
-                "income_upper_bound": 80409.19532329496,
+                "households": 8478,
+                "income_lower_bound": 50255,
+                "income_upper_bound": 80409,
                 "lower_percentile": 24.099942654934356,
                 "upper_percentile": 40.71724063055382
             },
             {
                 "label": "Moderate Income",
-                "households": 9275.808615485801,
-                "income_lower_bound": 80409.19532329496,
-                "income_upper_bound": 120613.79298494241,
+                "households": 9275,
+                "income_lower_bound": 80409,
+                "income_upper_bound": 120613,
                 "lower_percentile": 40.71724063055382,
                 "upper_percentile": 58.89618941151571
             },
             {
                 "label": "Above Moderate Income",
-                "households": 20973.219352774115,
-                "income_lower_bound": 120613.79298494241,
+                "households": 20973,
+                "income_lower_bound": 120613,
                 "income_upper_bound": null,
                 "lower_percentile": 58.89618941151571,
                 "upper_percentile": 100.0
@@ -2857,40 +2857,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 7348.870976157773,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 23750.45893729642,
+                "households": 7348,
+                "income_lower_bound": 0,
+                "income_upper_bound": 23750,
                 "lower_percentile": 0,
                 "upper_percentile": 16.701979491267664
             },
             {
                 "label": "Very Low Income",
-                "households": 3667.878547708728,
-                "income_lower_bound": 23750.45893729642,
-                "income_upper_bound": 39584.098228827366,
+                "households": 3667,
+                "income_lower_bound": 23750,
+                "income_upper_bound": 39584,
                 "lower_percentile": 16.701979491267664,
                 "upper_percentile": 25.03806709969659
             },
             {
                 "label": "Low Income",
-                "households": 6469.486298271917,
-                "income_lower_bound": 39584.098228827366,
-                "income_upper_bound": 63334.55716612379,
+                "households": 6469,
+                "income_lower_bound": 39584,
+                "income_upper_bound": 63334,
                 "lower_percentile": 25.03806709969659,
                 "upper_percentile": 39.74144505031458
             },
             {
                 "label": "Moderate Income",
-                "households": 7624.882070577291,
-                "income_lower_bound": 63334.55716612379,
-                "income_upper_bound": 95001.83574918567,
+                "households": 7624,
+                "income_lower_bound": 63334,
+                "income_upper_bound": 95001,
                 "lower_percentile": 39.74144505031458,
                 "upper_percentile": 57.07072248344479
             },
             {
                 "label": "Above Moderate Income",
-                "households": 18888.88210728429,
-                "income_lower_bound": 95001.83574918567,
+                "households": 18888,
+                "income_lower_bound": 95001,
                 "income_upper_bound": null,
                 "lower_percentile": 57.07072248344479,
                 "upper_percentile": 100.0
@@ -3018,40 +3018,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 157569.2946021164,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 32293.326494290042,
+                "households": 157569,
+                "income_lower_bound": 0,
+                "income_upper_bound": 32293,
                 "lower_percentile": 0,
                 "upper_percentile": 14.519504674340933
             },
             {
                 "label": "Very Low Income",
-                "households": 113557.45302924323,
-                "income_lower_bound": 32293.326494290042,
-                "income_upper_bound": 53822.21082381674,
+                "households": 113557,
+                "income_lower_bound": 32293,
+                "income_upper_bound": 53822,
                 "lower_percentile": 14.519504674340933,
                 "upper_percentile": 24.983459432961794
             },
             {
                 "label": "Low Income",
-                "households": 168114.91065349468,
-                "income_lower_bound": 53822.21082381674,
-                "income_upper_bound": 86115.5373181068,
+                "households": 168114,
+                "income_lower_bound": 53822,
+                "income_upper_bound": 86115,
                 "lower_percentile": 24.983459432961794,
                 "upper_percentile": 40.47470877328243
             },
             {
                 "label": "Moderate Income",
-                "households": 199604.40675699126,
-                "income_lower_bound": 86115.5373181068,
-                "income_upper_bound": 129173.30597716017,
+                "households": 199604,
+                "income_lower_bound": 86115,
+                "income_upper_bound": 129173,
                 "lower_percentile": 40.47470877328243,
                 "upper_percentile": 58.867614093100094
             },
             {
                 "label": "Above Moderate Income",
-                "households": 446378.93495815445,
-                "income_lower_bound": 129173.30597716017,
+                "households": 446378,
+                "income_lower_bound": 129173,
                 "income_upper_bound": null,
                 "lower_percentile": 58.867614093100094,
                 "upper_percentile": 100.0
@@ -3179,40 +3179,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 21584.98904690423,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 31848.930498381476,
+                "households": 21584,
+                "income_lower_bound": 0,
+                "income_upper_bound": 31848,
                 "lower_percentile": 0,
                 "upper_percentile": 13.473523621220721
             },
             {
                 "label": "Very Low Income",
-                "households": 15766.394123688522,
-                "income_lower_bound": 31848.930498381476,
-                "income_upper_bound": 53081.550830635795,
+                "households": 15766,
+                "income_lower_bound": 31848,
+                "income_upper_bound": 53081,
                 "lower_percentile": 13.473523621220721,
                 "upper_percentile": 23.315033532825698
             },
             {
                 "label": "Low Income",
-                "households": 26795.14730337255,
-                "income_lower_bound": 53081.550830635795,
-                "income_upper_bound": 84930.48132901728,
+                "households": 26795,
+                "income_lower_bound": 53081,
+                "income_upper_bound": 84930,
                 "lower_percentile": 23.315033532825698,
                 "upper_percentile": 40.04077980684838
             },
             {
                 "label": "Moderate Income",
-                "households": 29439.066264803158,
-                "income_lower_bound": 84930.48132901728,
-                "income_upper_bound": 127395.7219935259,
+                "households": 29439,
+                "income_lower_bound": 84930,
+                "income_upper_bound": 127395,
                 "lower_percentile": 40.04077980684838,
                 "upper_percentile": 58.41688154327227
             },
             {
                 "label": "Above Moderate Income",
-                "households": 66617.40326123155,
-                "income_lower_bound": 127395.7219935259,
+                "households": 66617,
+                "income_lower_bound": 127395,
                 "income_upper_bound": null,
                 "lower_percentile": 58.41688154327227,
                 "upper_percentile": 100.00000000000001
@@ -3340,40 +3340,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 100133.0712554382,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 26218.17582594564,
+                "households": 100133,
+                "income_lower_bound": 0,
+                "income_upper_bound": 26218,
                 "lower_percentile": 0,
                 "upper_percentile": 13.013167582499523
             },
             {
                 "label": "Very Low Income",
-                "households": 83918.80456887127,
-                "income_lower_bound": 26218.17582594564,
-                "income_upper_bound": 43696.9597099094,
+                "households": 83918,
+                "income_lower_bound": 26218,
+                "income_upper_bound": 43696,
                 "lower_percentile": 13.013167582499523,
                 "upper_percentile": 23.91914952718535
             },
             {
                 "label": "Low Income",
-                "households": 126201.63501083835,
-                "income_lower_bound": 43696.9597099094,
-                "income_upper_bound": 69915.13553585505,
+                "households": 126201,
+                "income_lower_bound": 43696,
+                "income_upper_bound": 69915,
                 "lower_percentile": 23.91914952718535,
                 "upper_percentile": 40.320154759433095
             },
             {
                 "label": "Moderate Income",
-                "households": 143535.87932725908,
-                "income_lower_bound": 69915.13553585505,
-                "income_upper_bound": 104872.70330378256,
+                "households": 143535,
+                "income_lower_bound": 69915,
+                "income_upper_bound": 104872,
                 "lower_percentile": 40.320154759433095,
                 "upper_percentile": 58.97389650897129
             },
             {
                 "label": "Above Moderate Income",
-                "households": 315685.60983759305,
-                "income_lower_bound": 104872.70330378256,
+                "households": 315685,
+                "income_lower_bound": 104872,
                 "income_upper_bound": null,
                 "lower_percentile": 58.97389650897129,
                 "upper_percentile": 99.99999999999999
@@ -3501,40 +3501,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 79122.63677137802,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 25639.68425497073,
+                "households": 79122,
+                "income_lower_bound": 0,
+                "income_upper_bound": 25639,
                 "lower_percentile": 0,
                 "upper_percentile": 13.814660087469798
             },
             {
                 "label": "Very Low Income",
-                "households": 57838.96087256387,
-                "income_lower_bound": 25639.68425497073,
-                "income_upper_bound": 42732.807091617884,
+                "households": 57838,
+                "income_lower_bound": 25639,
+                "income_upper_bound": 42732,
                 "lower_percentile": 13.814660087469798,
                 "upper_percentile": 23.91323132917008
             },
             {
                 "label": "Low Income",
-                "households": 90924.38791706972,
-                "income_lower_bound": 42732.807091617884,
-                "income_upper_bound": 68372.49134658862,
+                "households": 90924,
+                "income_lower_bound": 42732,
+                "income_upper_bound": 68372,
                 "lower_percentile": 23.91323132917008,
                 "upper_percentile": 39.78845445103076
             },
             {
                 "label": "Moderate Income",
-                "households": 112430.85507537264,
-                "income_lower_bound": 68372.49134658862,
-                "income_upper_bound": 102558.73701988292,
+                "households": 112430,
+                "income_lower_bound": 68372,
+                "income_upper_bound": 102558,
                 "lower_percentile": 39.78845445103076,
                 "upper_percentile": 59.41866534374594
             },
             {
                 "label": "Above Moderate Income",
-                "households": 232427.15936361573,
-                "income_lower_bound": 102558.73701988292,
+                "households": 232427,
+                "income_lower_bound": 102558,
                 "income_upper_bound": null,
                 "lower_percentile": 59.41866534374594,
                 "upper_percentile": 100.0
@@ -3662,40 +3662,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 2078.400855597442,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 33377.65238303454,
+                "households": 2078,
+                "income_lower_bound": 0,
+                "income_upper_bound": 33377,
                 "lower_percentile": 0,
                 "upper_percentile": 10.084429187760515
             },
             {
                 "label": "Very Low Income",
-                "households": 2169.0169517276718,
-                "income_lower_bound": 33377.65238303454,
-                "income_upper_bound": 55629.420638390904,
+                "households": 2169,
+                "income_lower_bound": 33377,
+                "income_upper_bound": 55629,
                 "lower_percentile": 10.084429187760515,
                 "upper_percentile": 20.608528905022386
             },
             {
                 "label": "Low Income",
-                "households": 3990.7821680547504,
-                "income_lower_bound": 55629.420638390904,
-                "income_upper_bound": 89007.07302142546,
+                "households": 3990,
+                "income_lower_bound": 55629,
+                "income_upper_bound": 89007,
                 "lower_percentile": 20.608528905022386,
                 "upper_percentile": 39.971858201746066
             },
             {
                 "label": "Moderate Income",
-                "households": 4135.404213772396,
-                "income_lower_bound": 89007.07302142546,
-                "income_upper_bound": 133510.60953213816,
+                "households": 4135,
+                "income_lower_bound": 89007,
+                "income_upper_bound": 133510,
                 "lower_percentile": 39.971858201746066,
                 "upper_percentile": 60.03689562907453
             },
             {
                 "label": "Above Moderate Income",
-                "households": 8236.395810847738,
-                "income_lower_bound": 133510.60953213816,
+                "households": 8236,
+                "income_lower_bound": 133510,
                 "income_upper_bound": null,
                 "lower_percentile": 60.03689562907453,
                 "upper_percentile": 100.0
@@ -3823,40 +3823,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 90935.72365943943,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 23801.044704849384,
+                "households": 90935,
+                "income_lower_bound": 0,
+                "income_upper_bound": 23801,
                 "lower_percentile": 0,
                 "upper_percentile": 13.488124828044196
             },
             {
                 "label": "Very Low Income",
-                "households": 75017.94041200783,
-                "income_lower_bound": 23801.044704849384,
-                "income_upper_bound": 39668.40784141564,
+                "households": 75017,
+                "income_lower_bound": 23801,
+                "income_upper_bound": 39668,
                 "lower_percentile": 13.488124828044196,
                 "upper_percentile": 24.615229819360874
             },
             {
                 "label": "Low Income",
-                "households": 104813.70575369043,
-                "income_lower_bound": 39668.40784141564,
-                "income_upper_bound": 63469.45254626503,
+                "households": 104813,
+                "income_lower_bound": 39668,
+                "income_upper_bound": 63469,
                 "lower_percentile": 24.615229819360874,
                 "upper_percentile": 40.161819102470616
             },
             {
                 "label": "Moderate Income",
-                "households": 127412.94000325543,
-                "income_lower_bound": 63469.45254626503,
-                "income_upper_bound": 95204.17881939754,
+                "households": 127412,
+                "income_lower_bound": 63469,
+                "income_upper_bound": 95204,
                 "lower_percentile": 40.161819102470616,
                 "upper_percentile": 59.060460585856696
             },
             {
                 "label": "Above Moderate Income",
-                "households": 276010.6901716069,
-                "income_lower_bound": 95204.17881939754,
+                "households": 276010,
+                "income_lower_bound": 95204,
                 "income_upper_bound": null,
                 "lower_percentile": 59.060460585856696,
                 "upper_percentile": 100.0
@@ -3984,40 +3984,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 168245.45135810805,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 29732.861367928672,
+                "households": 168245,
+                "income_lower_bound": 0,
+                "income_upper_bound": 29732,
                 "lower_percentile": 0,
                 "upper_percentile": 14.351213881782726
             },
             {
                 "label": "Very Low Income",
-                "households": 121093.15928422971,
-                "income_lower_bound": 29732.861367928672,
-                "income_upper_bound": 49554.76894654779,
+                "households": 121093,
+                "income_lower_bound": 29732,
+                "income_upper_bound": 49554,
                 "lower_percentile": 14.351213881782726,
                 "upper_percentile": 24.680371754882128
             },
             {
                 "label": "Low Income",
-                "households": 188515.31063451336,
-                "income_lower_bound": 49554.76894654779,
-                "income_upper_bound": 79287.63031447647,
+                "households": 188515,
+                "income_lower_bound": 49554,
+                "income_upper_bound": 79287,
                 "lower_percentile": 24.680371754882128,
                 "upper_percentile": 40.760589799815506
             },
             {
                 "label": "Moderate Income",
-                "households": 209959.4992313747,
-                "income_lower_bound": 79287.63031447647,
-                "income_upper_bound": 118931.44547171469,
+                "households": 209959,
+                "income_lower_bound": 79287,
+                "income_upper_bound": 118931,
                 "lower_percentile": 40.760589799815506,
                 "upper_percentile": 58.669981439580894
             },
             {
                 "label": "Above Moderate Income",
-                "households": 484529.5794917742,
-                "income_lower_bound": 118931.44547171469,
+                "households": 484529,
+                "income_lower_bound": 118931,
                 "income_upper_bound": null,
                 "lower_percentile": 58.669981439580894,
                 "upper_percentile": 100.0
@@ -4145,40 +4145,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 69781.88789115037,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 40715.06233524839,
+                "households": 69781,
+                "income_lower_bound": 0,
+                "income_upper_bound": 40715,
                 "lower_percentile": 0,
                 "upper_percentile": 19.28145181457105
             },
             {
                 "label": "Very Low Income",
-                "households": 31847.045243915447,
-                "income_lower_bound": 40715.06233524839,
-                "income_upper_bound": 67858.43722541399,
+                "households": 31847,
+                "income_lower_bound": 40715,
+                "income_upper_bound": 67858,
                 "lower_percentile": 19.28145181457105,
                 "upper_percentile": 28.081117270238572
             },
             {
                 "label": "Low Income",
-                "households": 50978.227324548905,
-                "income_lower_bound": 67858.43722541399,
-                "income_upper_bound": 108573.49956066239,
+                "households": 50978,
+                "income_lower_bound": 67858,
+                "income_upper_bound": 108573,
                 "lower_percentile": 28.081117270238572,
                 "upper_percentile": 42.16692468324199
             },
             {
                 "label": "Moderate Income",
-                "households": 52437.23125187206,
-                "income_lower_bound": 108573.49956066239,
-                "income_upper_bound": 162860.24934099356,
+                "households": 52437,
+                "income_lower_bound": 108573,
+                "income_upper_bound": 162860,
                 "lower_percentile": 42.16692468324199,
                 "upper_percentile": 56.655869855513714
             },
             {
                 "label": "Above Moderate Income",
-                "households": 156867.6082885132,
-                "income_lower_bound": 162860.24934099356,
+                "households": 156867,
+                "income_lower_bound": 162860,
                 "income_upper_bound": null,
                 "lower_percentile": 56.655869855513714,
                 "upper_percentile": 100.0
@@ -4306,40 +4306,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 32579.283708527517,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 26000.38494932895,
+                "households": 32579,
+                "income_lower_bound": 0,
+                "income_upper_bound": 26000,
                 "lower_percentile": 0,
                 "upper_percentile": 13.467912224539388
             },
             {
                 "label": "Very Low Income",
-                "households": 25948.894363026717,
-                "income_lower_bound": 26000.38494932895,
-                "income_upper_bound": 43333.97491554825,
+                "households": 25948,
+                "income_lower_bound": 26000,
+                "income_upper_bound": 43333,
                 "lower_percentile": 13.467912224539388,
                 "upper_percentile": 24.194895504212113
             },
             {
                 "label": "Low Income",
-                "households": 39294.02343867153,
-                "income_lower_bound": 43333.97491554825,
-                "income_upper_bound": 69334.3598648772,
+                "households": 39294,
+                "income_lower_bound": 43333,
+                "income_upper_bound": 69334,
                 "lower_percentile": 24.194895504212113,
                 "upper_percentile": 40.43860618108323
             },
             {
                 "label": "Moderate Income",
-                "households": 44733.692420385465,
-                "income_lower_bound": 69334.3598648772,
-                "income_upper_bound": 104001.5397973158,
+                "households": 44733,
+                "income_lower_bound": 69334,
+                "income_upper_bound": 104001,
                 "lower_percentile": 40.43860618108323,
                 "upper_percentile": 58.93101529563967
             },
             {
                 "label": "Above Moderate Income",
-                "households": 99347.10606938877,
-                "income_lower_bound": 104001.5397973158,
+                "households": 99347,
+                "income_lower_bound": 104001,
                 "income_upper_bound": null,
                 "lower_percentile": 58.93101529563967,
                 "upper_percentile": 100.0
@@ -4467,40 +4467,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 16918.389346470296,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 27505.28911543287,
+                "households": 16918,
+                "income_lower_bound": 0,
+                "income_upper_bound": 27505,
                 "lower_percentile": 0,
                 "upper_percentile": 15.144512587138736
             },
             {
                 "label": "Very Low Income",
-                "households": 11733.058612914552,
-                "income_lower_bound": 27505.28911543287,
-                "income_upper_bound": 45842.14852572145,
+                "households": 11733,
+                "income_lower_bound": 27505,
+                "income_upper_bound": 45842,
                 "lower_percentile": 15.144512587138736,
                 "upper_percentile": 25.647371352828095
             },
             {
                 "label": "Low Income",
-                "households": 16520.297806050115,
-                "income_lower_bound": 45842.14852572145,
-                "income_upper_bound": 73347.43764115432,
+                "households": 16520,
+                "income_lower_bound": 45842,
+                "income_upper_bound": 73347,
                 "lower_percentile": 25.647371352828095,
                 "upper_percentile": 40.43553191252134
             },
             {
                 "label": "Moderate Income",
-                "households": 20139.929265521103,
-                "income_lower_bound": 73347.43764115432,
-                "income_upper_bound": 110021.15646173149,
+                "households": 20139,
+                "income_lower_bound": 73347,
+                "income_upper_bound": 110021,
                 "lower_percentile": 40.43553191252134,
                 "upper_percentile": 58.46380907410603
             },
             {
                 "label": "Above Moderate Income",
-                "households": 46401.32496904393,
-                "income_lower_bound": 110021.15646173149,
+                "households": 46401,
+                "income_lower_bound": 110021,
                 "income_upper_bound": null,
                 "lower_percentile": 58.46380907410603,
                 "upper_percentile": 100.0
@@ -4628,40 +4628,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 38827.03395689277,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 43934.77757781608,
+                "households": 38827,
+                "income_lower_bound": 0,
+                "income_upper_bound": 43934,
                 "lower_percentile": 0,
                 "upper_percentile": 14.812581148050437
             },
             {
                 "label": "Very Low Income",
-                "households": 29347.164564099912,
-                "income_lower_bound": 43934.77757781608,
-                "income_upper_bound": 73224.62929636013,
+                "households": 29347,
+                "income_lower_bound": 43934,
+                "income_upper_bound": 73224,
                 "lower_percentile": 14.812581148050437,
                 "upper_percentile": 26.008575594949175
             },
             {
                 "label": "Low Income",
-                "households": 39153.62648154204,
-                "income_lower_bound": 73224.62929636013,
-                "income_upper_bound": 117159.40687417622,
+                "households": 39153,
+                "income_lower_bound": 73224,
+                "income_upper_bound": 117159,
                 "lower_percentile": 26.008575594949175,
                 "upper_percentile": 40.94575236055528
             },
             {
                 "label": "Moderate Income",
-                "households": 43044.085331523114,
-                "income_lower_bound": 117159.40687417622,
-                "income_upper_bound": 175739.11031126432,
+                "households": 43044,
+                "income_lower_bound": 117159,
+                "income_upper_bound": 175739,
                 "lower_percentile": 40.94575236055528,
                 "upper_percentile": 57.3671459603001
             },
             {
                 "label": "Above Moderate Income",
-                "households": 111750.08966594216,
-                "income_lower_bound": 175739.11031126432,
+                "households": 111750,
+                "income_lower_bound": 175739,
                 "income_upper_bound": null,
                 "lower_percentile": 57.3671459603001,
                 "upper_percentile": 100.0
@@ -4789,40 +4789,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 21979.023040916676,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 26965.82148715666,
+                "households": 21979,
+                "income_lower_bound": 0,
+                "income_upper_bound": 26965,
                 "lower_percentile": 0,
                 "upper_percentile": 14.570021438980636
             },
             {
                 "label": "Very Low Income",
-                "households": 17406.7510849951,
-                "income_lower_bound": 26965.82148715666,
-                "income_upper_bound": 44943.035811927766,
+                "households": 17406,
+                "income_lower_bound": 26965,
+                "income_upper_bound": 44943,
                 "lower_percentile": 14.570021438980636,
                 "upper_percentile": 26.1090573651562
             },
             {
                 "label": "Low Income",
-                "households": 23755.082469243054,
-                "income_lower_bound": 44943.035811927766,
-                "income_upper_bound": 71908.85729908443,
+                "households": 23755,
+                "income_lower_bound": 44943,
+                "income_upper_bound": 71908,
                 "lower_percentile": 26.1090573651562,
                 "upper_percentile": 41.8564388669315
             },
             {
                 "label": "Moderate Income",
-                "households": 22745.022893573037,
-                "income_lower_bound": 71908.85729908443,
-                "income_upper_bound": 107863.28594862664,
+                "households": 22745,
+                "income_lower_bound": 71908,
+                "income_upper_bound": 107863,
                 "lower_percentile": 41.8564388669315,
                 "upper_percentile": 56.93424603663739
             },
             {
                 "label": "Above Moderate Income",
-                "households": 64965.120511272136,
-                "income_lower_bound": 107863.28594862664,
+                "households": 64965,
+                "income_lower_bound": 107863,
                 "income_upper_bound": null,
                 "lower_percentile": 56.93424603663739,
                 "upper_percentile": 100.0
@@ -4950,40 +4950,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 102693.02208182933,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 45345.436900174034,
+                "households": 102693,
+                "income_lower_bound": 0,
+                "income_upper_bound": 45345,
                 "lower_percentile": 0,
                 "upper_percentile": 15.643049502393735
             },
             {
                 "label": "Very Low Income",
-                "households": 67215.52737839372,
-                "income_lower_bound": 45345.436900174034,
-                "income_upper_bound": 75575.72816695673,
+                "households": 67215,
+                "income_lower_bound": 45345,
+                "income_upper_bound": 75575,
                 "lower_percentile": 15.643049502393735,
                 "upper_percentile": 25.881873920978656
             },
             {
                 "label": "Low Income",
-                "households": 99947.32262998824,
-                "income_lower_bound": 75575.72816695673,
-                "income_upper_bound": 120921.16506713077,
+                "households": 99947,
+                "income_lower_bound": 75575,
+                "income_upper_bound": 120921,
                 "lower_percentile": 25.881873920978656,
                 "upper_percentile": 41.106675799793635
             },
             {
                 "label": "Moderate Income",
-                "households": 107018.09320909464,
-                "income_lower_bound": 120921.16506713077,
-                "income_upper_bound": 181381.74760069614,
+                "households": 107018,
+                "income_lower_bound": 120921,
+                "income_upper_bound": 181381,
                 "lower_percentile": 41.106675799793635,
                 "upper_percentile": 57.40855586704575
             },
             {
                 "label": "Above Moderate Income",
-                "households": 279603.0347006941,
-                "income_lower_bound": 181381.74760069614,
+                "households": 279603,
+                "income_lower_bound": 181381,
                 "income_upper_bound": null,
                 "lower_percentile": 57.40855586704575,
                 "upper_percentile": 100.0
@@ -5111,40 +5111,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 16633.42324868631,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 30634.677916944467,
+                "households": 16633,
+                "income_lower_bound": 0,
+                "income_upper_bound": 30634,
                 "lower_percentile": 0,
                 "upper_percentile": 17.3237757107601
             },
             {
                 "label": "Very Low Income",
-                "households": 10037.524820282411,
-                "income_lower_bound": 30634.677916944467,
-                "income_upper_bound": 51057.79652824078,
+                "households": 10037,
+                "income_lower_bound": 30634,
+                "income_upper_bound": 51057,
                 "lower_percentile": 17.3237757107601,
                 "upper_percentile": 27.777897275393137
             },
             {
                 "label": "Low Income",
-                "households": 12907.658569779735,
-                "income_lower_bound": 51057.79652824078,
-                "income_upper_bound": 81692.47444518526,
+                "households": 12907,
+                "income_lower_bound": 51057,
+                "income_upper_bound": 81692,
                 "lower_percentile": 27.777897275393137,
                 "upper_percentile": 41.22127442456747
             },
             {
                 "label": "Moderate Income",
-                "households": 17006.129342690794,
-                "income_lower_bound": 81692.47444518526,
-                "income_upper_bound": 122538.71166777787,
+                "households": 17006,
+                "income_lower_bound": 81692,
+                "income_upper_bound": 122538,
                 "lower_percentile": 41.22127442456747,
                 "upper_percentile": 58.93322499759334
             },
             {
                 "label": "Above Moderate Income",
-                "households": 39430.264018560745,
-                "income_lower_bound": 122538.71166777787,
+                "households": 39430,
+                "income_lower_bound": 122538,
                 "income_upper_bound": null,
                 "lower_percentile": 58.93322499759334,
                 "upper_percentile": 100.0
@@ -5272,40 +5272,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 10873.18866821457,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 20798.631820066334,
+                "households": 10873,
+                "income_lower_bound": 0,
+                "income_upper_bound": 20798,
                 "lower_percentile": 0,
                 "upper_percentile": 15.268544603112593
             },
             {
                 "label": "Very Low Income",
-                "households": 9657.634203027726,
-                "income_lower_bound": 20798.631820066334,
-                "income_upper_bound": 34664.386366777224,
+                "households": 9657,
+                "income_lower_bound": 20798,
+                "income_upper_bound": 34664,
                 "lower_percentile": 15.268544603112593,
                 "upper_percentile": 28.83016144698622
             },
             {
                 "label": "Low Income",
-                "households": 8999.21945109939,
-                "income_lower_bound": 34664.386366777224,
-                "income_upper_bound": 55463.01818684356,
+                "households": 8999,
+                "income_lower_bound": 34664,
+                "income_upper_bound": 55463,
                 "lower_percentile": 28.83016144698622,
                 "upper_percentile": 41.46720728285803
             },
             {
                 "label": "Moderate Income",
-                "households": 12827.436664147786,
-                "income_lower_bound": 55463.01818684356,
-                "income_upper_bound": 83194.52728026533,
+                "households": 12827,
+                "income_lower_bound": 55463,
+                "income_upper_bound": 83194,
                 "lower_percentile": 41.46720728285803,
                 "upper_percentile": 59.479981164238936
             },
             {
                 "label": "Above Moderate Income",
-                "households": 28855.521013510526,
-                "income_lower_bound": 83194.52728026533,
+                "households": 28855,
+                "income_lower_bound": 83194,
                 "income_upper_bound": null,
                 "lower_percentile": 59.479981164238936,
                 "upper_percentile": 100.0
@@ -5433,40 +5433,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 21217.545602754086,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 28088.48285430673,
+                "households": 21217,
+                "income_lower_bound": 0,
+                "income_upper_bound": 28088,
                 "lower_percentile": 0,
                 "upper_percentile": 13.319739351610286
             },
             {
                 "label": "Very Low Income",
-                "households": 16762.76216655595,
-                "income_lower_bound": 28088.48285430673,
-                "income_upper_bound": 46814.13809051122,
+                "households": 16762,
+                "income_lower_bound": 28088,
+                "income_upper_bound": 46814,
                 "lower_percentile": 13.319739351610286,
                 "upper_percentile": 23.842899148310693
             },
             {
                 "label": "Low Income",
-                "households": 25063.63445535728,
-                "income_lower_bound": 46814.13809051122,
-                "income_upper_bound": 74902.62094481794,
+                "households": 25063,
+                "income_lower_bound": 46814,
+                "income_upper_bound": 74902,
                 "lower_percentile": 23.842899148310693,
                 "upper_percentile": 39.5770978346123
             },
             {
                 "label": "Moderate Income",
-                "households": 31994.251975982545,
-                "income_lower_bound": 74902.62094481794,
-                "income_upper_bound": 112353.93141722692,
+                "households": 31994,
+                "income_lower_bound": 74902,
+                "income_upper_bound": 112353,
                 "lower_percentile": 39.5770978346123,
                 "upper_percentile": 59.66213052635371
             },
             {
                 "label": "Above Moderate Income",
-                "households": 64255.805799350135,
-                "income_lower_bound": 112353.93141722692,
+                "households": 64255,
+                "income_lower_bound": 112353,
                 "income_upper_bound": null,
                 "lower_percentile": 59.66213052635371,
                 "upper_percentile": 100.0
@@ -5594,40 +5594,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 24940.925961944078,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 29330.15364393545,
+                "households": 24940,
+                "income_lower_bound": 0,
+                "income_upper_bound": 29330,
                 "lower_percentile": 0,
                 "upper_percentile": 12.81005760816448
             },
             {
                 "label": "Very Low Income",
-                "households": 22142.718765517813,
-                "income_lower_bound": 29330.15364393545,
-                "income_upper_bound": 48883.589406559084,
+                "households": 22142,
+                "income_lower_bound": 29330,
+                "income_upper_bound": 48883,
                 "lower_percentile": 12.81005760816448,
                 "upper_percentile": 24.18291134344569
             },
             {
                 "label": "Low Income",
-                "households": 32234.802002407305,
-                "income_lower_bound": 48883.589406559084,
-                "income_upper_bound": 78213.74305049454,
+                "households": 32234,
+                "income_lower_bound": 48883,
+                "income_upper_bound": 78213,
                 "lower_percentile": 24.18291134344569,
                 "upper_percentile": 40.73922008950744
             },
             {
                 "label": "Moderate Income",
-                "households": 33913.03515459723,
-                "income_lower_bound": 78213.74305049454,
-                "income_upper_bound": 117320.6145757418,
+                "households": 33913,
+                "income_lower_bound": 78213,
+                "income_upper_bound": 117320,
                 "lower_percentile": 40.73922008950744,
                 "upper_percentile": 58.15749616558281
             },
             {
                 "label": "Above Moderate Income",
-                "households": 81466.51811553357,
-                "income_lower_bound": 117320.6145757418,
+                "households": 81466,
+                "income_lower_bound": 117320,
                 "income_upper_bound": null,
                 "lower_percentile": 58.15749616558281,
                 "upper_percentile": 100.0
@@ -5755,40 +5755,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 25357.271343751403,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 22857.812578548677,
+                "households": 25357,
+                "income_lower_bound": 0,
+                "income_upper_bound": 22857,
                 "lower_percentile": 0,
                 "upper_percentile": 14.317971859984644
             },
             {
                 "label": "Very Low Income",
-                "households": 18886.179035895842,
-                "income_lower_bound": 22857.812578548677,
-                "income_upper_bound": 38096.35429758113,
+                "households": 18886,
+                "income_lower_bound": 22857,
+                "income_upper_bound": 38096,
                 "lower_percentile": 14.317971859984644,
                 "upper_percentile": 24.982044358669487
             },
             {
                 "label": "Low Income",
-                "households": 27204.163688702192,
-                "income_lower_bound": 38096.35429758113,
-                "income_upper_bound": 60954.166876129806,
+                "households": 27204,
+                "income_lower_bound": 38096,
+                "income_upper_bound": 60954,
                 "lower_percentile": 24.982044358669487,
                 "upper_percentile": 40.34286315060301
             },
             {
                 "label": "Moderate Income",
-                "households": 31265.54356995609,
-                "income_lower_bound": 60954.166876129806,
-                "income_upper_bound": 91431.25031419471,
+                "households": 31265,
+                "income_lower_bound": 60954,
+                "income_upper_bound": 91431,
                 "lower_percentile": 40.34286315060301,
                 "upper_percentile": 57.996938265907886
             },
             {
                 "label": "Above Moderate Income",
-                "households": 74387.84236169446,
-                "income_lower_bound": 91431.25031419471,
+                "households": 74387,
+                "income_lower_bound": 91431,
                 "income_upper_bound": null,
                 "lower_percentile": 57.996938265907886,
                 "upper_percentile": 100.0
@@ -5916,40 +5916,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 4301.285940118322,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 19744.193812233283,
+                "households": 4301,
+                "income_lower_bound": 0,
+                "income_upper_bound": 19744,
                 "lower_percentile": 0,
                 "upper_percentile": 12.751351654566353
             },
             {
                 "label": "Very Low Income",
-                "households": 2848.9997843096357,
-                "income_lower_bound": 19744.193812233283,
-                "income_upper_bound": 32906.98968705547,
+                "households": 2848,
+                "income_lower_bound": 19744,
+                "income_upper_bound": 32906,
                 "lower_percentile": 12.751351654566353,
                 "upper_percentile": 21.197337022494835
             },
             {
                 "label": "Low Income",
-                "households": 6277.852117378981,
-                "income_lower_bound": 32906.98968705547,
-                "income_upper_bound": 52651.18349928876,
+                "households": 6277,
+                "income_lower_bound": 32906,
+                "income_upper_bound": 52651,
                 "lower_percentile": 21.197337022494835,
                 "upper_percentile": 39.808306183466556
             },
             {
                 "label": "Moderate Income",
-                "households": 5705.179393016164,
-                "income_lower_bound": 52651.18349928876,
-                "income_upper_bound": 78976.77524893313,
+                "households": 5705,
+                "income_lower_bound": 52651,
+                "income_upper_bound": 78976,
                 "lower_percentile": 39.808306183466556,
                 "upper_percentile": 56.7215618250418
             },
             {
                 "label": "Above Moderate Income",
-                "households": 14598.682765176896,
-                "income_lower_bound": 78976.77524893313,
+                "households": 14598,
+                "income_lower_bound": 78976,
                 "income_upper_bound": null,
                 "lower_percentile": 56.7215618250418,
                 "upper_percentile": 100.0
@@ -6077,40 +6077,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 2826.284227634601,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 17696.998861911987,
+                "households": 2826,
+                "income_lower_bound": 0,
+                "income_upper_bound": 17696,
                 "lower_percentile": 0,
                 "upper_percentile": 11.477296355876552
             },
             {
                 "label": "Very Low Income",
-                "households": 2838.2938004141047,
-                "income_lower_bound": 17696.998861911987,
-                "income_upper_bound": 29494.99810318665,
+                "households": 2838,
+                "income_lower_bound": 17696,
+                "income_upper_bound": 29494,
                 "lower_percentile": 11.477296355876552,
                 "upper_percentile": 23.003362550451598
             },
             {
                 "label": "Low Income",
-                "households": 4010.7457074115896,
-                "income_lower_bound": 29494.99810318665,
-                "income_upper_bound": 47191.99696509864,
+                "households": 4010,
+                "income_lower_bound": 29494,
+                "income_upper_bound": 47191,
                 "lower_percentile": 23.003362550451598,
                 "upper_percentile": 39.29065476329054
             },
             {
                 "label": "Moderate Income",
-                "households": 4385.216447137614,
-                "income_lower_bound": 47191.99696509864,
-                "income_upper_bound": 70787.99544764795,
+                "households": 4385,
+                "income_lower_bound": 47191,
+                "income_upper_bound": 70787,
                 "lower_percentile": 39.29065476329054,
                 "upper_percentile": 57.098640335422985
             },
             {
                 "label": "Above Moderate Income",
-                "households": 10564.45981740209,
-                "income_lower_bound": 70787.99544764795,
+                "households": 10564,
+                "income_lower_bound": 70787,
                 "income_upper_bound": null,
                 "lower_percentile": 57.098640335422985,
                 "upper_percentile": 100.0
@@ -6238,40 +6238,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 17551.878390287122,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 19804.945071493763,
+                "households": 17551,
+                "income_lower_bound": 0,
+                "income_upper_bound": 19804,
                 "lower_percentile": 0,
                 "upper_percentile": 12.262978425257721
             },
             {
                 "label": "Very Low Income",
-                "households": 16696.219727982712,
-                "income_lower_bound": 19804.945071493763,
-                "income_upper_bound": 33008.24178582294,
+                "households": 16696,
+                "income_lower_bound": 19804,
+                "income_upper_bound": 33008,
                 "lower_percentile": 12.262978425257721,
                 "upper_percentile": 23.928133444843347
             },
             {
                 "label": "Low Income",
-                "households": 23024.25171564267,
-                "income_lower_bound": 33008.24178582294,
-                "income_upper_bound": 52813.1868573167,
+                "households": 23024,
+                "income_lower_bound": 33008,
+                "income_upper_bound": 52813,
                 "lower_percentile": 23.928133444843347,
                 "upper_percentile": 40.01449729538564
             },
             {
                 "label": "Moderate Income",
-                "households": 27226.016067017415,
-                "income_lower_bound": 52813.1868573167,
-                "income_upper_bound": 79219.78028597505,
+                "households": 27226,
+                "income_lower_bound": 52813,
+                "income_upper_bound": 79219,
                 "lower_percentile": 40.01449729538564,
                 "upper_percentile": 59.0365096527817
             },
             {
                 "label": "Above Moderate Income",
-                "households": 58630.63409907008,
-                "income_lower_bound": 79219.78028597505,
+                "households": 58630,
+                "income_lower_bound": 79219,
                 "income_upper_bound": null,
                 "lower_percentile": 59.0365096527817,
                 "upper_percentile": 100.0
@@ -6399,40 +6399,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 35731.97730238163,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 30980.665790755105,
+                "households": 35731,
+                "income_lower_bound": 0,
+                "income_upper_bound": 30980,
                 "lower_percentile": 0,
                 "upper_percentile": 12.82412125800131
             },
             {
                 "label": "Very Low Income",
-                "households": 32188.230943895156,
-                "income_lower_bound": 30980.665790755105,
-                "income_upper_bound": 51634.44298459184,
+                "households": 32188,
+                "income_lower_bound": 30980,
+                "income_upper_bound": 51634,
                 "lower_percentile": 12.82412125800131,
                 "upper_percentile": 24.376400417138363
             },
             {
                 "label": "Low Income",
-                "households": 43142.9953732788,
-                "income_lower_bound": 51634.44298459184,
-                "income_upper_bound": 82615.10877534695,
+                "households": 43142,
+                "income_lower_bound": 51634,
+                "income_upper_bound": 82615,
                 "lower_percentile": 24.376400417138363,
                 "upper_percentile": 39.860318349198614
             },
             {
                 "label": "Moderate Income",
-                "households": 52005.91644924717,
-                "income_lower_bound": 82615.10877534695,
-                "income_upper_bound": 123922.66316302042,
+                "households": 52005,
+                "income_lower_bound": 82615,
+                "income_upper_bound": 123922,
                 "lower_percentile": 39.860318349198614,
                 "upper_percentile": 58.52511747393605
             },
             {
                 "label": "Above Moderate Income",
-                "households": 115561.87993119724,
-                "income_lower_bound": 123922.66316302042,
+                "households": 115561,
+                "income_lower_bound": 123922,
                 "income_upper_bound": null,
                 "lower_percentile": 58.52511747393605,
                 "upper_percentile": 100.0
@@ -6560,40 +6560,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 13162.25815177001,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 25646.595879530912,
+                "households": 13162,
+                "income_lower_bound": 0,
+                "income_upper_bound": 25646,
                 "lower_percentile": 0,
                 "upper_percentile": 17.022435952782498
             },
             {
                 "label": "Very Low Income",
-                "households": 7430.600885949047,
-                "income_lower_bound": 25646.595879530912,
-                "income_upper_bound": 42744.32646588486,
+                "households": 7430,
+                "income_lower_bound": 25646,
+                "income_upper_bound": 42744,
                 "lower_percentile": 17.022435952782498,
                 "upper_percentile": 26.632255651900543
             },
             {
                 "label": "Low Income",
-                "households": 11758.039513126765,
-                "income_lower_bound": 42744.32646588486,
-                "income_upper_bound": 68390.92234541578,
+                "households": 11758,
+                "income_lower_bound": 42744,
+                "income_upper_bound": 68390,
                 "lower_percentile": 26.632255651900543,
                 "upper_percentile": 41.83864898005228
             },
             {
                 "label": "Moderate Income",
-                "households": 12514.28710682014,
-                "income_lower_bound": 68390.92234541578,
-                "income_upper_bound": 102586.38351812365,
+                "households": 12514,
+                "income_lower_bound": 68390,
+                "income_upper_bound": 102586,
                 "lower_percentile": 41.83864898005228,
                 "upper_percentile": 58.023079365345325
             },
             {
                 "label": "Above Moderate Income",
-                "households": 32457.81434233404,
-                "income_lower_bound": 102586.38351812365,
+                "households": 32457,
+                "income_lower_bound": 102586,
                 "income_upper_bound": null,
                 "lower_percentile": 58.023079365345325,
                 "upper_percentile": 100.0
@@ -6721,40 +6721,40 @@
         "hcd_income_ranges": [
             {
                 "label": "Extremely Low Income",
-                "households": 4308.098990911482,
-                "income_lower_bound": 0.0,
-                "income_upper_bound": 20204.77911330049,
+                "households": 4308,
+                "income_lower_bound": 0,
+                "income_upper_bound": 20204,
                 "lower_percentile": 0,
                 "upper_percentile": 14.6384607234505
             },
             {
                 "label": "Very Low Income",
-                "households": 2517.6905397368473,
-                "income_lower_bound": 20204.77911330049,
-                "income_upper_bound": 33674.63185550082,
+                "households": 2517,
+                "income_lower_bound": 20204,
+                "income_upper_bound": 33674,
                 "lower_percentile": 14.6384607234505,
                 "upper_percentile": 23.193304555379985
             },
             {
                 "label": "Low Income",
-                "households": 4688.450335827644,
-                "income_lower_bound": 33674.63185550082,
-                "income_upper_bound": 53879.41096880131,
+                "households": 4688,
+                "income_lower_bound": 33674,
+                "income_upper_bound": 53879,
                 "lower_percentile": 23.193304555379985,
                 "upper_percentile": 39.12415856770633
             },
             {
                 "label": "Moderate Income",
-                "households": 5769.585734619004,
-                "income_lower_bound": 53879.41096880131,
-                "income_upper_bound": 80819.11645320196,
+                "households": 5769,
+                "income_lower_bound": 53879,
+                "income_upper_bound": 80819,
                 "lower_percentile": 39.12415856770633,
                 "upper_percentile": 58.72859531462785
             },
             {
                 "label": "Above Moderate Income",
-                "households": 12146.174398905023,
-                "income_lower_bound": 80819.11645320196,
+                "households": 12146,
+                "income_lower_bound": 80819,
                 "income_upper_bound": null,
                 "lower_percentile": 58.72859531462785,
                 "upper_percentile": 100.0

@@ -1,6 +1,7 @@
 [
     {
         "jurisdiction": "Alameda County, California",
+        "median_income": 122278,
         "total_households": 596614,
         "census_income_ranges": [
             {
@@ -161,6 +162,7 @@
     },
     {
         "jurisdiction": "Butte County, California",
+        "median_income": 64393,
         "total_households": 82494,
         "census_income_ranges": [
             {
@@ -321,6 +323,7 @@
     },
     {
         "jurisdiction": "Contra Costa County, California",
+        "median_income": 119855,
         "total_households": 415194,
         "census_income_ranges": [
             {
@@ -481,6 +484,7 @@
     },
     {
         "jurisdiction": "El Dorado County, California",
+        "median_income": 107591,
         "total_households": 74376,
         "census_income_ranges": [
             {
@@ -641,6 +645,7 @@
     },
     {
         "jurisdiction": "Fresno County, California",
+        "median_income": 69819,
         "total_households": 326981,
         "census_income_ranges": [
             {
@@ -801,6 +806,7 @@
     },
     {
         "jurisdiction": "Humboldt County, California",
+        "median_income": 57342,
         "total_households": 56785,
         "census_income_ranges": [
             {
@@ -961,6 +967,7 @@
     },
     {
         "jurisdiction": "Imperial County, California",
+        "median_income": 57851,
         "total_households": 50877,
         "census_income_ranges": [
             {
@@ -1121,6 +1128,7 @@
     },
     {
         "jurisdiction": "Kern County, California",
+        "median_income": 66723,
         "total_households": 283510,
         "census_income_ranges": [
             {
@@ -1281,6 +1289,7 @@
     },
     {
         "jurisdiction": "Kings County, California",
+        "median_income": 65919,
         "total_households": 43646,
         "census_income_ranges": [
             {
@@ -1441,6 +1450,7 @@
     },
     {
         "jurisdiction": "Lake County, California",
+        "median_income": 51999,
         "total_households": 27058,
         "census_income_ranges": [
             {
@@ -1601,6 +1611,7 @@
     },
     {
         "jurisdiction": "Los Angeles County, California",
+        "median_income": 83270,
         "total_households": 3415726,
         "census_income_ranges": [
             {
@@ -1761,6 +1772,7 @@
     },
     {
         "jurisdiction": "Madera County, California",
+        "median_income": 76793,
         "total_households": 45539,
         "census_income_ranges": [
             {
@@ -1921,6 +1933,7 @@
     },
     {
         "jurisdiction": "Marin County, California",
+        "median_income": 135898,
         "total_households": 103285,
         "census_income_ranges": [
             {
@@ -2081,6 +2094,7 @@
     },
     {
         "jurisdiction": "Mendocino County, California",
+        "median_income": 65768,
         "total_households": 34998,
         "census_income_ranges": [
             {
@@ -2241,6 +2255,7 @@
     },
     {
         "jurisdiction": "Merced County, California",
+        "median_income": 67533,
         "total_households": 87830,
         "census_income_ranges": [
             {
@@ -2401,6 +2416,7 @@
     },
     {
         "jurisdiction": "Monterey County, California",
+        "median_income": 90392,
         "total_households": 132411,
         "census_income_ranges": [
             {
@@ -2561,6 +2577,7 @@
     },
     {
         "jurisdiction": "Napa County, California",
+        "median_income": 100511,
         "total_households": 51025,
         "census_income_ranges": [
             {
@@ -2721,6 +2738,7 @@
     },
     {
         "jurisdiction": "Nevada County, California",
+        "median_income": 79168,
         "total_households": 44000,
         "census_income_ranges": [
             {
@@ -2881,6 +2899,7 @@
     },
     {
         "jurisdiction": "Orange County, California",
+        "median_income": 107644,
         "total_households": 1085225,
         "census_income_ranges": [
             {
@@ -3041,6 +3060,7 @@
     },
     {
         "jurisdiction": "Placer County, California",
+        "median_income": 106163,
         "total_households": 160203,
         "census_income_ranges": [
             {
@@ -3201,6 +3221,7 @@
     },
     {
         "jurisdiction": "Riverside County, California",
+        "median_income": 87393,
         "total_households": 769475,
         "census_income_ranges": [
             {
@@ -3361,6 +3382,7 @@
     },
     {
         "jurisdiction": "Sacramento County, California",
+        "median_income": 85465,
         "total_households": 572744,
         "census_income_ranges": [
             {
@@ -3521,6 +3543,7 @@
     },
     {
         "jurisdiction": "San Benito County, California",
+        "median_income": 111258,
         "total_households": 20610,
         "census_income_ranges": [
             {
@@ -3681,6 +3704,7 @@
     },
     {
         "jurisdiction": "San Bernardino County, California",
+        "median_income": 79336,
         "total_households": 674191,
         "census_income_ranges": [
             {
@@ -3841,6 +3865,7 @@
     },
     {
         "jurisdiction": "San Diego County, California",
+        "median_income": 99109,
         "total_households": 1172343,
         "census_income_ranges": [
             {
@@ -4001,6 +4026,7 @@
     },
     {
         "jurisdiction": "San Francisco County, California",
+        "median_income": 135716,
         "total_households": 361912,
         "census_income_ranges": [
             {
@@ -4161,6 +4187,7 @@
     },
     {
         "jurisdiction": "San Joaquin County, California",
+        "median_income": 86667,
         "total_households": 241903,
         "census_income_ranges": [
             {
@@ -4321,6 +4348,7 @@
     },
     {
         "jurisdiction": "San Luis Obispo County, California",
+        "median_income": 91684,
         "total_households": 111713,
         "census_income_ranges": [
             {
@@ -4481,6 +4509,7 @@
     },
     {
         "jurisdiction": "San Mateo County, California",
+        "median_income": 146449,
         "total_households": 262122,
         "census_income_ranges": [
             {
@@ -4641,6 +4670,7 @@
     },
     {
         "jurisdiction": "Santa Barbara County, California",
+        "median_income": 89886,
         "total_households": 150851,
         "census_income_ranges": [
             {
@@ -4801,6 +4831,7 @@
     },
     {
         "jurisdiction": "Santa Clara County, California",
+        "median_income": 151151,
         "total_households": 656477,
         "census_income_ranges": [
             {
@@ -4961,6 +4992,7 @@
     },
     {
         "jurisdiction": "Santa Cruz County, California",
+        "median_income": 102115,
         "total_households": 96015,
         "census_income_ranges": [
             {
@@ -5121,6 +5153,7 @@
     },
     {
         "jurisdiction": "Shasta County, California",
+        "median_income": 69328,
         "total_households": 71213,
         "census_income_ranges": [
             {
@@ -5281,6 +5314,7 @@
     },
     {
         "jurisdiction": "Solano County, California",
+        "median_income": 93628,
         "total_households": 159294,
         "census_income_ranges": [
             {
@@ -5441,6 +5475,7 @@
     },
     {
         "jurisdiction": "Sonoma County, California",
+        "median_income": 97767,
         "total_households": 194698,
         "census_income_ranges": [
             {
@@ -5601,6 +5636,7 @@
     },
     {
         "jurisdiction": "Stanislaus County, California",
+        "median_income": 76192,
         "total_households": 177101,
         "census_income_ranges": [
             {
@@ -5761,6 +5797,7 @@
     },
     {
         "jurisdiction": "Sutter County, California",
+        "median_income": 65813,
         "total_households": 33732,
         "census_income_ranges": [
             {
@@ -5921,6 +5958,7 @@
     },
     {
         "jurisdiction": "Tehama County, California",
+        "median_income": 58989,
         "total_households": 24625,
         "census_income_ranges": [
             {
@@ -6081,6 +6119,7 @@
     },
     {
         "jurisdiction": "Tulare County, California",
+        "median_income": 66016,
         "total_households": 143129,
         "census_income_ranges": [
             {
@@ -6241,6 +6280,7 @@
     },
     {
         "jurisdiction": "Ventura County, California",
+        "median_income": 103268,
         "total_households": 278631,
         "census_income_ranges": [
             {
@@ -6401,6 +6441,7 @@
     },
     {
         "jurisdiction": "Yolo County, California",
+        "median_income": 85488,
         "total_households": 77323,
         "census_income_ranges": [
             {
@@ -6561,6 +6602,7 @@
     },
     {
         "jurisdiction": "Yuba County, California",
+        "median_income": 67349,
         "total_households": 29430,
         "census_income_ranges": [
             {

@@ -191,6 +191,7 @@ for county_data in raw_data[1:]:
 
     prepared_data.append({
         'jurisdiction': county,
+        'median_income': int(median_income),
         'total_households': county_total_households,
         'census_income_ranges': census_income_ranges,
         'hcd_income_ranges': hcd_income_ranges,

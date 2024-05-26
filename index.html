@@ -1,9 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- HTML Meta Tags -->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>US Census and California HCD Income Ranges</title>
+    <meta name="description" content="How many households are 'Moderate Income'?">
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://jlhawn.github.io/hcd_income_range_distribution/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="US Census and California HCD Income Ranges">
+    <meta property="og:description" content="How many households are 'Moderate Income'?">
+    <meta property="og:image" content="https://jlhawn.github.io/hcd_income_range_distribution/img/thumbnail.png">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="jlhawn.github.io">
+    <meta property="twitter:url" content="https://jlhawn.github.io/hcd_income_range_distribution/">
+    <meta name="twitter:title" content="US Census and California HCD Income Ranges">
+    <meta name="twitter:description" content="How many households are 'Moderate Income'?">
+    <meta name="twitter:image" content="https://jlhawn.github.io/hcd_income_range_distribution/img/thumbnail.png">
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -18,6 +36,9 @@
             margin: 0 auto;
         }
         .dropdown {
+            margin-bottom: 20px;
+        }
+        .info {
             margin-bottom: 20px;
         }
         .charts {
@@ -41,11 +62,15 @@
                 <option value="">--Select--</option>
             </select>
         </div>
+        <div class="info">
+            <h2 id="jurisdictionName"></h2>
+            <p><b>Median Income</b>:<span id="medianIncome"></span></p>
+        </div>
         <div class="charts">
-            <h2 id="censusChartTitle"></h2>
-            <img id="censusChart" src="" alt="Census Income Ranges Chart">
             <h2 id="hcdChartTitle"></h2>
             <img id="hcdChart" src="" alt="HCD Income Ranges Chart">
+            <h2 id="censusChartTitle"></h2>
+            <img id="censusChart" src="" alt="Census Income Ranges Chart">
         </div>
     </div>
 
@@ -64,12 +89,17 @@
 
                     function updateCharts(jurisdiction) {
                         if (jurisdiction) {
+                            const county = data.find(c => c.jurisdiction === jurisdiction);
                             const safeJurisdictionName = jurisdiction.replace(/,/g, '').replace(/ /g, '_');
+                            document.getElementById('jurisdictionName').textContent = jurisdiction;
+                            document.getElementById('medianIncome').textContent = `$${county.median_income.toLocaleString()}`;
                             document.getElementById('censusChartTitle').textContent = `Census Income Ranges - ${jurisdiction}`;
                             document.getElementById('censusChart').src = `charts/census_income_ranges/${safeJurisdictionName}.png`;
                             document.getElementById('hcdChartTitle').textContent = `HCD Income Ranges - ${jurisdiction}`;
                             document.getElementById('hcdChart').src = `charts/hcd_income_ranges/${safeJurisdictionName}.png`;
                         } else {
+                            document.getElementById('jurisdictionName').textContent = '';
+                            document.getElementById('medianIncome').textContent = '';
                             document.getElementById('censusChartTitle').textContent = '';
                             document.getElementById('censusChart').src = '';
                             document.getElementById('hcdChartTitle').textContent = '';
